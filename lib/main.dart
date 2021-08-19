@@ -136,25 +136,3 @@ class _MyHomePageState extends State<MyHomePage> {
     }
   }
 }
-/*Widget _popUpDialog(BuildContext context) {
-    return AlertDialog(
-      title: const Text('Welcome to task 2'),
-      content: Column(
-        mainAxisSize: MainAxisSize.min,
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: const <Widget>[
-          Text('print name:  Dan Odin'),
-          Text('powered by: Zuri'),
-        ],
-      ),
-      actions: [
-        TextButton(
-            onPressed: () {
-              Navigator.of(context).pop();
-            },
-            child: const Text('Go to task 5'))
-      ],
-    );
-  }
-}*/
-/*Life without breath is earth without trees. -Dan Odin*/
